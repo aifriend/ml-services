@@ -80,7 +80,7 @@ pluggy==0.13.1
 preshed==3.0.2
 prompt-toolkit==3.0.2
 protobuf==3.11.2
-py==1.8.1
+py==1.10.0
 pycparser==2.19
 PyDictionary==1.5.2
 Pygments==2.5.2
